@@ -13,4 +13,4 @@ What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [DM me](https://www.instagram.com/csjuego/).
+To be honest, I'm having some trouble remembering right now, so why don't you just [DM me](https://www.instagram.com/csjuego/).
