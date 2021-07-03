@@ -17,4 +17,6 @@ This leads me back to the ought-is issue. If you want to increase your chances o
 
 Once again, philosophy may be a futile means of approaching this problem, but computation gives me hope.
 
-{: .box-warning} Warning: This does not even take into account all the other contradictory things the universe throws at us like climate change and entropy...but that's for another time
+
+{: .box-warning} 
+**Warning:** This does not even take into account all the other contradictory things the universe throws at us like climate change and entropy...but that's for another time
