@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: this simulation sucks
+title: "this simulation sucks"
 
 # Your name to show in the footer
 author: CSJ
@@ -143,9 +143,9 @@ footer-link-col: "#404040"
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
- matomo:
-  site_id: "9"
-  uri: "demo.wiki.pro"
+# matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
 #  opt-out: true
 
 # --- Comments --- #
