@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ?
-subtitle: Why you should go out with me (females only)
+title: "???"
+subtitle: "Why you should go out with me (females only)"
 ---
 
 My name is Chandler:
