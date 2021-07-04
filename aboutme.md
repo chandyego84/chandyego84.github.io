@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "???"
+title: "People are too serious"
 subtitle: "Why you should go out with me (females only)"
 ---
 
