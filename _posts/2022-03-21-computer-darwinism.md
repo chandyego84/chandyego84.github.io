@@ -28,6 +28,6 @@ The parameters for the genetic algorithm implementation were mostly arbitrary an
 ### Conclusion
 After multiple sessions fixing and debugging local optima erros and incorrect crossovers, it took about a dozen generations to produce a neural network that could move through the course at a sufficient rate. 
 
-![Fitness Data](assets/img/trainingData3.JPG)
+![Fitness Data](/assets/img/trainingData3.JPG)
 
 [(Shoutout to this post. Helped me with creating my first NN).](https://towardsdatascience.com/building-a-neural-network-framework-in-c-16ef56ce1fef)
