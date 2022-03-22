@@ -11,6 +11,14 @@ Neural networks are the core of deep learning algorithms and both their name and
 ![NN vs Brain](/assets/img/NNandBrain.png)
 
 ### Genetic Algorithm
+As stated, the neural network needs to be trained in order to produce desired results which should allow the car to nabigate through the track. The genetic algorithm is a heuristic evolutionary process inspired by the process of natural selection. Genetic algorithms are typically used to solve optimization or search problems, where in this case the neural network is being optimized to produce the best outputs for the car to travel through the track. Again, for more learning, this [article](https://medium.com/@AnasBrital98/genetic-algorithm-explained-76dfbc5de85d) is a good place to start.
+
+There are variations to each step, but the main algorithm is as follows:
+1. Create a population of random individuals (set of cars with random neural networks and random weights)
+2. Evaluate the fitness of each individual
+3. Select the best performing or fittest individuals for the next generation
+4. Create a new generation of individuals using crossover and mutation
+5. Repeat steps 2-4 until the desired number of generations is reached
 
 ### Implementation
 
