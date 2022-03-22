@@ -8,7 +8,7 @@ The goal of this projec was to simulate a "self-driving" car in the Unity engine
 ### Neural Networks
 Neural networks are the core of deep learning algorithms and both their name and structure are inspired by the human brain. The neural network is a collection of neurons that are connected to each other and can be trained to learn patterns in data. They rely on data to learn and improve their acuracy over time. If you want to learn more, this [project on recognizing handwritten digits](http://neuralnetworksanddeeplearning.com/chap1.html) is a good place to start.
 
-![NN vs Brain](assets\img\NNandBrain.png)
+![NN vs Brain](C:\Users\chand\myBlog\chandyego84.github.io\assets\img\NNandBrain.png)
 
 ### Genetic Algorithm
 
