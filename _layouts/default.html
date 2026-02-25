@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {%- include head.html -%}
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+
+    <!-- follow.it verification code -->
+    <meta name="follow.it-verification-code" content="c5qa5E80tCZlTvcHjvvX"/>
+
+    <!-- additional head content -->
+    {{ site.head_includes }}
+  </head>
 
   <body>
 
