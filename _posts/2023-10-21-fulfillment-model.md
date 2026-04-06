@@ -8,6 +8,9 @@ title: Travis Bickle Fulfillment Scale
 
 Travis Bickle is an unfulfilled and lonely taxi driver. His job is valuable to society, but he lacks everything else that makes a life worth living...I have an unfinished post from January 2022 that talked about how most people today live a useless or purposeless life. What do the words "useful", "purpose", "fulfillment", blah-blah-blah mean? With pseudo math, I will attempt to quantify "usefulness" and "purpose". I don't know how to actually do that, so I will leave it to the reader to fill and correct the gaps and mistakes in the attempt. Fulfillment = usefulness + purpose.
 
+### warning
+pls don't take this seriously. i wrote this one night when i was in a country very very far away, and i wasn't feeling the best lol.
+
 ### Usefulness
 This is the least abstract concept of the fulfillment measurement variables. Someone's usefulness to society can be defined by how much value they add to the economy (e.g., fraction of GDP), or how valuable their job is (replacability), or less so how much money they make from their career/job.
 
@@ -28,7 +31,7 @@ Maxed out - Taylor Swift; high economic value, purpObj (music) tied directly to 
 
 Very good - doctor who did 10 years of med school (purpObj linked to career), construction worker (high usefulness) who has a loving family to come home to 
 
-Danger zone but still good - minimum wage worker who has various hobbies/purpObjs (too complacenet can lead to "Sad")
+Danger zone but still good - working and has various hobbies/purpObjs (too complacenet can lead to "Sad")
 
 Sad - Travis Bickle; taxi job = ok value to society, no purpose objects to make up for
 
